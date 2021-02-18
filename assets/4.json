@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "flight_name": "BDL-Flight",
+  "passengers": [
+    {
+      "id": 1,
+      "checked_bag": 1
+    },
+    {
+      "id": 2,
+      "checked_bag": 2
+    }
+  ]
+}

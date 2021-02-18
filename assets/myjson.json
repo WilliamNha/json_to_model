@@ -1,0 +1,25 @@
+{
+  "Date": "17-02-2021",
+  "Result": [
+    {
+      "ResultOne": {
+        "two": "23",
+        "three": "123"
+      },
+      "ResultTwo": {
+        "two": "68",
+        "three": "168"
+      }
+    },
+    {
+      "ResultOne": {
+        "two": "5",
+        "three": "6"
+      },
+      "ResultTwo": {
+        "two": "7",
+        "three": "8"
+      }
+    }
+  ]
+}
